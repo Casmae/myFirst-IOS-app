@@ -1,7 +1,6 @@
 # Objetcif
-Créatio d'une application iOS pour le MBDS. Celle-ci affichera une série de
-posts et permettra également de voir un « A propos » du MBDS
-Projet iOS (Xcode) / language : Swift
+- Création d'une application iOS pour le MBDS. Celle-ci affichera une série de posts et permettra également de voir un « A propos » du MBDS 
+- Projet iOS (Xcode) / language : Swift
 
 # Fonctionnalités 
 Le point d’entrée de l’application sera un TabBarController.Il sera  liés aux écrans suivants :
